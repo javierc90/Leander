@@ -1,5 +1,4 @@
 import mazo
-import collections
 
 def anillo():
     cartas = mazo.Mazo()
