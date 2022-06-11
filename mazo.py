@@ -7,8 +7,8 @@ class Mazo:
             "corazon": [1,2,3,4,5,6,7,8,9,10,11,12,13],
             "diamante": [1,2,3,4,5,6,7,8,9,10,11,12,13]
             }
-    mazo = []
     def __init__(self):
+        self.mazo = []
         for i in self.__mazo__.keys():
             for j in self.__mazo__[i]:
                 self.mazo.append([i, j])
