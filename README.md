@@ -48,3 +48,13 @@ Attempts    | Test 1   |	 Test 2 	|  Test 3	  |  Test 4	  |  Test 5
 Note that only in the last case, more than 10,000,000 tests were required to confirm a trend with a variation of less than 0.003% less than the previous order of magnitude. 
 
 The final result is (11.68 ± 0.035)% probability of winning this game, according to the tests carried out.
+
+# Version 
+
+Version 1.0
+
+# Author
+
+* Javier Carugno
+* Electronic engineering student at National Technological University, Argentina
+* javiercarugno@gmail.com
