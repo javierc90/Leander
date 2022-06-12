@@ -50,6 +50,10 @@ Note that only in the last case, more than 10,000,000 tests were required to con
 
 The final result is (11.68 ± 0.035)% probability of winning this game, according to the tests carried out.
 
+# Final comments
+
+To avoid using modules not natively included in python, math and graphing functions were not used. As explained above, the probability was calculated experimentally, and the result obtained shows a clear trend towards the found probability.
+
 # Version 
 
 Version 1.0
