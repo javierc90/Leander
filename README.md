@@ -2,8 +2,8 @@
 Leandergames challenge
 
 This program is the results of the Leandergames interview challenge. The statement is copied below:
-* *
-Python Test
+
+_Python Test
 Consider the following game:
 From one deck of poker cards (52 cards) you place cards face up in a ring of 12 positions. The 13th card is placed
 in the middle of the ring. If an Ace was put on the first position (“place one”) or a deuce on “place two” and so
@@ -14,10 +14,10 @@ your deck and leave the matched card on its position in the ring. You continue t
 run out of cards or have all 13 positions matched.
 You win if you have all 13 positions matched.
 What is the probability of winning the game?
-Please provide the answer together with simulation code in Python.
-* *
+Please provide the answer together with simulation code in Python._
 
-![Resultados obtenidos](Img/prob.png)
+
+![Results obtained](Img/prob.png)
 
 Attempts  | Test 1   |	 Test 2 	|  Test 3	  |  Test 4	  |  Test 5
 :-------: | :------: | :--------: | :-------: | :-------: | :------: 
