@@ -17,6 +17,8 @@ What is the probability of winning the game?
 Please provide the answer together with simulation code in Python.
 * *
 
+![Resultados obtenidos](Img/prob.png)
+
 Attempts  | Test 1   |	 Test 2 	|  Test 3	  |  Test 4	  |  Test 5
 :-------: | :------: | :--------: | :-------: | :-------: | :------: 
 1000      |	 12.4    |  	11.5    | 	 12.1   |	  10.4	  |   12.2
